@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterfall.CSharp.Plugins", "Waterfall.CSharp.Plugins.csproj", "{B584DEEA-B090-6513-60E0-8448B99DE6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterfall.CSharp", "Waterfall.CSharp.csproj", "{292B01ED-17D7-FA86-76B6-CA9650A48DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterfall.CSharp.Editor", "Waterfall.CSharp.Editor.csproj", "{A3241B4F-6355-6DB9-E24F-DD5DE481AEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B584DEEA-B090-6513-60E0-8448B99DE6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B584DEEA-B090-6513-60E0-8448B99DE6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B584DEEA-B090-6513-60E0-8448B99DE6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B584DEEA-B090-6513-60E0-8448B99DE6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292B01ED-17D7-FA86-76B6-CA9650A48DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292B01ED-17D7-FA86-76B6-CA9650A48DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292B01ED-17D7-FA86-76B6-CA9650A48DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292B01ED-17D7-FA86-76B6-CA9650A48DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3241B4F-6355-6DB9-E24F-DD5DE481AEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3241B4F-6355-6DB9-E24F-DD5DE481AEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3241B4F-6355-6DB9-E24F-DD5DE481AEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3241B4F-6355-6DB9-E24F-DD5DE481AEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
