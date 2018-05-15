@@ -1,2 +1,2 @@
-# Unity---Waterfall-Scene
-A 3D environment built made with Unity and a purchased asset package that served as my introduction to Unity.
+# Unity - Waterfall-Scene
+In preparation for my CS Capstone project at Oregon State University, this project consists of a 3D environment built made with Unity and a purchased asset package that served as my introduction to Unity. In addition to creating a small environment, I also toyed around with audio, and the creation of an in-game menu system (with the intent of having it ported to our future project).
